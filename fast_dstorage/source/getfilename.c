@@ -30,14 +30,14 @@ int main(int argc,char* argv[]){
 		close(pipefd[1]);
 		wait(NULL);
 		buflen = read(pipefd[0],buf,sizeof(buf));
-		LOG("filename","列表",__FILE__, __LINE__,__FUNCTION__,buf);
+		LOG("filename","列表","FileName=%s",buf);
 		printf("%s",buf);
 	}
 	else if(pid == 0){
 		close(pipefd[0]);
 		dup2(pipefd[1],STDOUT_FILENO);
 		execlp("fdfs_upload_file", "fdfs_upload_file", 
-		"/etc/fdfs/client.conf", argv[1], NULL);
+		"./conf/client.conf", argv[1], NULL);
 	}
 	return 0;	
 }
