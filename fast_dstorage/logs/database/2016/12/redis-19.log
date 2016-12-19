@@ -1,0 +1,748 @@
+===20161219-171518,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171518,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171531,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171841,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-171925,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172226,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172235,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-172915,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183536,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183638,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-183638,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183638,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXuDaANAJ2AAACdu43hqI3884192 group1/M00/00/00/wKgX9FhXuDaANAJ2AAACdu43hqI3884192 error 
+
+===20161219-183638,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183638,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXuDaANAJ2AAACdu43hqI3884192 group1/M00/00/00/wKgX9FhXuDaANAJ2AAACdu43hqI3884192 error 
+
+===20161219-183648,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183648,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-183806,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185137,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185349,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185349,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185349,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXvD2AQjW3AAiHoduAJgU3099492 group1/M00/00/00/wKgX9FhXvD2AQjW3AAiHoduAJgU3099492 error 
+
+===20161219-185349,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185349,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXvD2AQjW3AAiHoduAJgU3099492 group1/M00/00/00/wKgX9FhXvD2AQjW3AAiHoduAJgU3099492 error 
+
+===20161219-185402,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185402,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-185738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191724,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191735,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191735,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191735,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353 group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353 error 
+
+===20161219-191735,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191735,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353 group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353 error 
+
+===20161219-191747,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191747,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191747,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804 group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804 error 
+
+===20161219-191747,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191747,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804 group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804 error 
+
+===20161219-191758,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191758,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191758,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612 group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612 error 
+
+===20161219-191758,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191758,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612 group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612 error 
+
+===20161219-191805,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191805,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191805,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828 group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828 error 
+
+===20161219-191805,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191805,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828 group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828 error 
+
+===20161219-191812,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191812,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191812,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_FileName group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801 group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801 error 
+
+===20161219-191812,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191812,rop_insert_hash[1073]=== [-][GMS_REDIS]ZSCORE FileId_Time group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801 group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801 error 
+
+===20161219-191818,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191818,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191818,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191818,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191818,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191818,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191818,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-191837,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191841,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191853,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191853,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191853,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191853,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191853,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-191853,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-191853,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-192731,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192731,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192731,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192731,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192731,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192731,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192731,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-192738,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192738,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192738,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192738,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192738,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-192738,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-192738,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-193133,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193133,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193133,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193133,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193133,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193133,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193133,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-193136,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193136,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193136,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193136,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193136,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193136,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193136,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-193141,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193141,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193141,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193141,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193141,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193141,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193141,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-193147,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193147,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193147,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193147,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193147,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-193147,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-193147,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-194254,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194254,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194254,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194254,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194254,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194254,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194254,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-194304,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194304,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194304,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194304,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194304,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194304,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194304,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
+===20161219-194309,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194309,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwfSAALu5AAAC9ujJzgQ1310801  error 
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194309,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwe2AMWhxAAAFJw7356c3992828  error 
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194309,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXweaAVfogAAHXAv2Da0Q3662612  error 
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194309,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwduALSKiAAiHoduAJgU6384804  error 
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[329]=== [+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+
+===20161219-194309,rop_test_reply_type[323]=== [+][GMS_REDIS]=REDIS_REPLY_NIL=[] data not exist
+
+===20161219-194309,rop_GetHash_one_field[1111]=== [-][GMS_REDIS]ZSCORE FileId_download group1/M00/00/00/wKgX9FhXwc-AM5heAAj_skc_dX43398353  error 
+
